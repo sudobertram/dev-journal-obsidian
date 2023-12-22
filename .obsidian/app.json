@@ -1,0 +1,15 @@
+{
+  "showLineNumber": true,
+  "spellcheck": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "attachmentFolderPath": "Files"
+}

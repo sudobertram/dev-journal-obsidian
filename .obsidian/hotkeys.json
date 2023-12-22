@@ -1,0 +1,18 @@
+{
+  "obsidian-checklist-plugin:show-checklist-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-checklist-plugin:refresh-checklist-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "Montserrat",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Montserrat",
+  "baseFontSize": 18,
+  "cssTheme": "Tokyo Night",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "theme": "obsidian"
+}

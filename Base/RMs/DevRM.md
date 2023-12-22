@@ -1,0 +1,37 @@
+- [ ] Development
+	- [ ] Python
+		- [ ] Advanced
+			- [x] context manager "with"
+			- [ ] closures
+			- [ ] decorators
+			- [ ] async
+			- [ ] threads
+			- [ ] multiprocess
+			- [ ] daemons
+		- [ ] [[OOP]]
+		- [ ] [[Patterns]]
+	- [ ] Databases
+		- [ ] SQL
+		- [ ] NoSQL
+	- [ ] Django
+		- [ ] ORM
+		- [ ] REST API
+	- [ ] Caching
+		- [ ] Redis
+		- [ ] Kafka
+	- [ ] Celery
+- [ ] Deployment
+	- [ ] VPS 
+	- [ ] Nginx
+	- [ ] Docker 
+	- [ ] Docker Compose
+	- [ ] K8S
+	- [ ] CI / CD
+- [ ] Tools
+	- [ ] [[GIT]]
+	- [ ] Linux CLI
+	- [ ] Bash Scripting
+- [ ] General
+	- [ ] How WEB works
+	- [ ] What is HTTP
+	- [ ] OSI Layer
