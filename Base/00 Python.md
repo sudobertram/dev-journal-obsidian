@@ -1,3 +1,13 @@
+- [x] context manager "with"
+- [ ] closures
+- [ ] decorators
+- [ ] async
+- [ ] threads
+- [ ] multiprocess
+- [ ] daemons
+- [ ] OOP
+- [ ] Design patterns
+
 Advanced Syntax
 [[Context Manager "with"]]
 
