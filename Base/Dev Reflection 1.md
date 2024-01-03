@@ -1,4 +1,4 @@
-tags: #dev #rm 
+#dev #rm 
 25-12-2023 at 00:16
 
 # Пересмотр старых целей
@@ -10,11 +10,3 @@ tags: #dev #rm
 
 [[RM Docker]]
 
-
-
----
-### Zero-Links
-- 
----
-### Links
-- 

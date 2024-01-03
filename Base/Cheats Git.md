@@ -1,4 +1,4 @@
-#dev #git #github #cheatsheet
+#dev #git #cheatsheet
 # Git and GitHub 
  
 ## GIT

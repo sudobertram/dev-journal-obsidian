@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "91d7944a45f33e60",
+        "id": "18b09506e67b4cb4",
         "type": "tabs",
         "children": [
           {
-            "id": "db0ebf3032894ae6",
+            "id": "0e052d15b5b09f33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/RMs/DevRM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98c6d7bc2f37d5a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/00 Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27a20f5ab70ba74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/RM Reflection-1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/RM Reflection-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/RM Reflection-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/RM Reflection-1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -201,35 +170,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27a20f5ab70ba74d",
+  "active": "0e052d15b5b09f33",
   "lastOpenFiles": [
+    "Excalidraw/Docker_Linux_vs_Win.md",
+    "Base/What is Docker.md",
     "Base/RM Docker.md",
-    "Base/00 Docker.md",
-    "Base/00 Linux.md",
+    "Base/How does the Internet Work_.md",
+    "Base/Development References.md",
+    "Base/Dev Reflection 1.md",
+    "Base/Databases.md",
+    "Base/Context Manager _with_.md",
+    "Base/Cheats Git.md",
     "Base/00 Python.md",
+    "Base/00 Linux.md",
+    "Base/00 Docker.md",
+    "Templates/new note.md",
+    "Templates/rm reflection.md",
+    "Templates/tech note.md",
+    "Excalidraw/Docker_vs_VM.md",
+    "Excalidraw",
     "Base/RMs/DevRM.md",
-    "Base/RM Reflection-1.md",
-    "Templates/0 new note.md",
-    "Templates/0 tech note.md",
     "Base/RMs/GIT.md",
     "Base/RMs/OOP.md",
     "Base/RMs/Python PRO.md",
-    "Base/LINKS DEV.md",
     "Base/RMs/Patterns.md",
     "Base/ZeroLinks",
-    "Base/Cheats Git.md",
     "Base/Cheats Docker.md",
-    "Base/Context Manager _with_.md",
     "Base/Cheats Linux CLI.md",
     "Base/Closures Python.md",
-    "Base/Databases.md",
-    "Base/How does the Internet Work_.md",
     "Base/NoSQL.md",
     "Base/SQL.md",
-    "Base/Протокол прикладного уровня.md",
-    "Base/Context Manager \"with\".md",
-    "Base/crontab.md",
-    "Base/curl.md",
     "Base/RMs",
     "Excalidraw/Drawing 2023-05-15 20.35.11.excalidraw.png",
     "Day Planners",
@@ -246,7 +216,6 @@
     "Files/Pasted image 20230402123144.png",
     "Untitled.canvas",
     "Files/quadratic_arcitecture.excalidraw",
-    "Archive/red_pills",
-    "Excalidraw"
+    "Archive/red_pills"
   ]
 }

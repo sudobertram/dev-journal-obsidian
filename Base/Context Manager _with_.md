@@ -1,4 +1,4 @@
-#dev #python #pythonsyntax 
+#dev #python
 # Context Manager "with"
 
 ### abstract

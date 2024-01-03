@@ -1,7 +1,3 @@
-[[lsof]]
-[[stat]]
-[[nohup]]
-[[nslookup]]
 [[paste]]
 [[rsync]]
 [[curl]]
